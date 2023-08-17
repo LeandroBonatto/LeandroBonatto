@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeandroBonatto
-- Computer Programming student at Humber College, Canada.
-- 👀 I’m interested in Java, Python, Javascript, MySQL, Oracle SQL Developer, HTML and CSS.
-- 🌱 I’m currently learning Java.
+- Graduated in computer programming at Humber College, Canada.
+- 👀 I’m interested in Java, Python, and Oracle SQL Developer, among others.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me @lembonatto (Instagram)
 
