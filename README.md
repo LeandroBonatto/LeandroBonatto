@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroBonatto
-- Graduated in computer programming at Humber College, Canada.
-- 👀 I’m interested in Java, Python, and Oracle SQL Developer, among others.
+- College Diploma in Computer Programming at Humber College, Canada - 2023.
+- 👀 I’m interested in Python, R, Java, and Oracle SQL Developer, among others.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me @lembonatto (Instagram)
 
